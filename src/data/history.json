@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Unified Mentors Pvt. Ltd.",
+    "startDate": "Feb, 2024",
+    "endDate": "Apr, 2024",
+    "experiences": ["Work on frontend frameworks", ""],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "ABC",
+    "organisation": "XYZ",
+    "startDate": "MONTH, YEAR",
+    "endDate": "MONTH, YEAR",
+    "experiences": ["****", "****"],
+    "imageSrc": "Company Logo"
+  },
+  {"role": "ABC",
+  "organisation": "XYZ",
+  "startDate": "MONTH, YEAR",
+  "endDate": "MONTH, YEAR",
+  "experiences": ["****", "****"],
+  "imageSrc": "Company Logo"
+  },
+  {"role": "ABC",
+  "organisation": "XYZ",
+  "startDate": "MONTH, YEAR",
+  "endDate": "MONTH, YEAR",
+  "experiences": ["****", "****"],
+  "imageSrc": "Company Logo"
+  }
+]
